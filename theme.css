@@ -1,6 +1,6 @@
 /*******************
 Total Dark mode for Discord.
-Version 0.0.2
+Version 0.0.3
 
 Theme made by Draco (https://github.com/DracoZ12/TotalDarkMode)
 
@@ -417,3 +417,4 @@ border-bottom: 0px solid #181818;
   border-color: #181818;
   padding: 0;
 }
+.quick-message {color: white;}
