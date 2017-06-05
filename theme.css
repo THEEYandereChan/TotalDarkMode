@@ -1,0 +1,419 @@
+/*******************
+Total Dark mode for Discord.
+Version 0.0.2
+
+Theme made by Draco (https://github.com/DracoZ12/TotalDarkMode)
+
+YOU NEED A THEME PATCHER FOR DISCORD IN ORDER TO USE THEME
+BeautifulDiscord (recommended)
+https://github.com/leovoel/BeautifulDiscord
+
+********************
+
+MyDiscord 
+https://github.com/justinoboyle/mydiscord
+
+********************
+
+BetterDiscord (NOT RECOMMENDED)
+https://github.com/jiiks/betterdiscordapp
+
+*******************/
+.bot-tag {
+  background-color: #5773D2;
+}
+.badge {
+  background-color: #5773D2;
+}
+.user-popout {
+animation: none;
+}
+.user-popout .body {
+  background-color: #181818;
+  border: none;
+}
+.user-popout .header {
+  background-image: none;
+  background-color: #181818;
+}
+
+.user-popout .footer {
+  background-color: #181818;
+  border: none;
+}
+
+.header-info {
+  background-image: none;
+  background-color: #181818;
+  color: white;
+}
+.modal-inner .header {
+
+  background-color: #181818;
+}
+#user-profile-modal .guilds .section .connected-accounts .connected-account,
+.connected-account {
+  border: none;
+  background-color: #141414;
+  animation: none;
+}
+.connecting,
+.theme-dark .guild-header header,
+section.flex-verticle.flexspacer,
+.theme-dark .guild-wrapper,
+.theme-dark .channels-wrap, .theme-dark .guild-channels-wrapper,
+.theme-dark .scroller.messages,
+.theme-dark .messages-wrapper,
+.theme-dark .messages .message-text,
+.theme-dark .chat,
+.theme-dark .chat>.content,
+.theme-dark .channel-members,
+.theme-dark .private-channels,
+.theme-dark #friends, .theme-dark #friends .friends-table,
+.theme-dark .popout, .theme-dark .pop-out .user-popout,
+.theme-dark .chat .title-wrap,
+.guilds-wrapper,
+.account,
+.theme-dark .guild-channels,
+.theme-dark .chat .content form .typing,
+.guild-channels .channel-text.selected,
+.guild-channels .channel-text:hover,
+.private-channels .channel.selected,
+.private-channels .channel:hover,
+.theme-dark #friends .friends-header,
+.search-bar,
+#voice-connection,
+.account .btn,
+#voice-connection .btn {
+  background: transparent !important;
+  border: none;
+}
+
+.scroller::-webkit-scrollbar-track,
+.scroller::-webkit-scrollbar-track-piece {
+   background: transparent !important;
+}
+.note {
+  content: none;
+}
+.theme-dark .layer {
+  background-color: #313131;
+}
+#user-profile-modal .tab-bar-container {
+border: none;
+  background-color: #181818;
+}
+#user-profile-modal .header:after {
+  border: none;
+  background-image: none;
+  background-color: #181818;
+}
+
+.user-popout .avatar-wrapper .avatar-popout {
+animation: none;
+border: 3.5px solid #181818;
+  background-color: transparent;
+}
+.theme-dark .message-group:not(.has-divider){
+  background-color: transparent;
+}
+#user-profile-modal .avatar-wrapper {
+  border: none;
+
+  background-color: #181818;
+}
+#user-profile-modal .scroller {
+  border: none;
+  background-color: #181818;
+}
+#user-profile-modal .tab-bar-container {
+  border: none;
+  background-color: #181818;
+}
+#user-profile-modal .empty {
+  border: none;
+  background-color: #181818;
+}
+.note textarea:focus {
+  background-color: #181818;
+}
+.note::after {
+  background-color: transparent;
+}
+.new-messages-indicator.new-messages-indicator-mention {
+ background-color: #5773D2;
+}
+.theme-dark .channel-textarea-upload {
+border: none;
+background-color: #181818;
+    background-size: 20px;
+    background-position: center;
+    opacity: 1;
+    border-radius: 25px;
+   transition: opacity .35s ease-in-out;
+   -moz-transition: opacity .35s ease-in-out;
+   -webkit-transition: opacity .35s ease-in-out;
+
+}
+.theme-dark .channel-textarea-inner {
+  animation: none;
+  border-radius: 25px;
+
+
+}
+.theme-dark .channel-textarea:focus {
+  animation: none;
+}
+.theme-dark .channel-textarea-emoji {
+  border-radius: 25px;
+
+   opacity: 1;
+   background-color: #181818;
+}
+.theme-dark .channel-textarea-autocomplete-inner ul li.active,
+.theme-dark .channel-textarea-autocomplete-inner,
+.theme-dark .channel-textarea-autocomplete header,
+.theme-dark .channel-textarea-autocomplete-inner::after
+{
+
+  border: none;
+  background-color: #181818;
+}
+.theme-dark .channel-textarea-autocomplete-inner
+{
+  animation: none;
+}
+.theme-dark .channel-textarea-inner,
+.theme-dark .channel-textarea-inner:hover {
+  background-color: #181818;
+}
+.theme-dark .channel-textarea-upload:hover {
+
+background-color: #181818;
+    background-size: 20px;
+    background-position: center;
+    opacity: 1;
+    border-radius: 25px;
+   transition: opacity .35s ease-in-out;
+   -moz-transition: opacity .35s ease-in-out;
+   -webkit-transition: opacity .35s ease-in-out;
+}
+.guilds-wrapper {
+    background-color: transparent;
+}
+.user-popout .body .roles .member-role {
+  background-color: #181818;
+}
+.ui-standard-sidebar-view .sidebar-region .scroller,
+.theme-dark .layer {
+    background-color: #181818;
+}
+.ui-standard-sidebar-view .scroller {
+    background-color: #181818;
+}
+
+.ui-form-title.h2 {
+  opacity: 0;
+
+}
+.theme-dark .user-settings-games .game-name-input:focus,
+.theme-dark .user-settings-games .game-name-input:hover,
+.theme-dark .ui-hover-card:before,
+.change-log,
+.change-log.markdown-modal .scroller-wrap .scroller,
+.markdown-modal .markdown-modal-footer,
+.change-log .embed-wrapper {
+background-color: #181818;
+border: none;
+}
+.emoji-picker,
+.emoji-picker .header .search-bar, 
+.emoji-picker .category,
+.emoji-picker .scroller,
+.emoji-picker .header,
+.emoji-picker .categories,
+.emoji-picker .scroller .emoji-item.selected
+ {
+  background-color: #181818;
+  color: white;
+}
+.emoji-picker {
+  animation: none;
+}
+.quick-message {
+  background-color: #181818;
+  border: none;
+}
+
+
+.hljs {
+  display: block;
+  font-family: "Consolas", monospace;
+  font-size: 15px;
+  overflow-x: auto;
+  background: #1D1F21 !important;
+  color: #C5C8C6 !important;
+  padding: 0.5em;
+}.hljs-emphasis {
+  font-style: italic !important;
+}.hljs-strong {
+  font-weight: bold !important;
+}.hljs-keyword {
+  color: #E061C7 !important;
+  font-weight: bold !important;
+}.hljs-built_in {
+  color: #999999 !important;
+}.hljs-literal,
+.hljs-number {
+  color: #F79768 !important;
+}.hljs-regexp {
+  color: #B34D4D !important;
+}.hljs-string {
+  color: #2497E3 !important;
+}.hljs-subst {
+  color: #F5C747 !important;
+  font-weight: bold !important;
+}.hljs-symbol {
+  color: #04AFBF !important;
+}.hljs-class,
+.hljs-class .hljs-title {
+  color: #E36222 !important;
+}.hljs-class .hljs-keyword,
+.hljs-function .hljs-keyword {
+  color: #50FA7B !important;
+}.hljs-function,
+.hljs-function .hljs-title {
+  color: #D65656 !important;
+}.hljs-params {
+  color: #07CC95 !important;
+}.hljs-comment,
+.hljs-doctag,
+.hljs-meta-keyword,
+.hljs-meta-string,
+.hljs-template-tag,
+.hljs-template-variable {
+  color: #9E9E9E !important;
+  font-style: italic !important;
+}.hljs-meta {
+  color: #E36222 !important;
+  font-style: italic !important;
+}.hljs-tag {
+  color: #49C7F5 !important;
+}.hljs-name,
+.hljs-builtin-name {
+  color: #D75A64 !important;
+}.hljs-attr,
+.hljs-variable {
+  color: #78D69E !important;
+}.hljs-bullet,
+.hljs-type {
+  color: #04AFBF !important;
+  font-weight: bold !important;
+}.hljs-code {
+  color: #BEBEBE !important;
+}.hljs-emphasis {
+  font-style: italic !important;
+  color: #AEAEAE !important;
+}.hljs-strong {
+  font-weight: bold !important;
+}.hljs-link {
+  color: #DE935F !important;
+}.hljs-section {
+  color: #CC9C0C !important;
+  font-weight: bold !important;
+}.hljs-quote {
+  color: #789922 !important;
+}.hljs-selector-tag {
+  color: #D75A64 !important;
+}.hljs-selector-id {
+  color: #CC3535 !important;
+  font-weight: bold !important;
+}.hljs-attribute,
+.hljs-selector-pseudo {
+  color: #40C762 !important;
+}.hljs-selector-class {
+  color: #49C7F5 !important;
+}.hljs-selector-attr {
+  color: #A25AFA !important;
+}.hljs-addition {
+  color: #80C771 !important;
+}.hljs-deletion {
+  color: #C24848 !important;
+}
+
+
+#user-profile-modal .guilds .guild:hover {
+  background: rgba(0, 0, 0, 0);
+}
+.theme-dark .channel-textarea-inner input,
+.theme-dark .channel-textarea-inner background,
+
+.theme-dark .channel-textarea-inner{
+border: none;
+  border-color: #181818;
+  border-radius: 10px;
+  border-image: none;
+}
+.theme-dark .channel-textarea-inner:hover {
+  animation: none;
+}
+.scroller-wrap .scroller::-webkit-scrollbar-thumb, .scroller-wrap .scroller::-webkit-scrollbar-track-piece
+ {
+  border: none;
+
+}
+#user-profile-modal .avatar-wrapper, {
+  background-color: transparent;
+  border-color: transparent;
+}
+.theme-dark .channel-members .member.popout-open, .theme-dark .channel-members .member:hover {
+  background-color: #181818;
+  background: currentColor;
+}
+.search-popout .results-group {
+  background-color: #181818;
+}
+
+.search-popout .option.selected:after {
+background: rgba(0, 0, 0, 0);
+}
+.account .btn-group {
+  animation: none;
+  border-radius: 10px;
+}
+.theme-dark .channel-members .member.popout-open, .theme-dark .channel-members .member:hover {
+  background: rgba(0, 0, 0, 0);
+  animation-fill-mode: cover;
+  animation: none;
+
+}
+
+.form header,
+.form-header,
+.form .form-actions,
+.form .btn-default:hover,
+.form .btn-default,
+.form,
+.form .form-inner,
+.form .form-header,
+.form p,
+.modal-content .form-inner p {
+  background-color: #252525;
+  
+border: none;
+border-bottom: 0px solid #181818;
+ color: white;
+}
+
+
+.theme-dark.context-menu {
+  background-color: #181818;
+  animation: none;
+}
+#user-profile-modal,
+#user-profile-modal .scroller {
+  background: rgba(7, 7, 7, 1);
+  background-color: #181818;
+  border-color: #181818;
+  padding: 0;
+}
