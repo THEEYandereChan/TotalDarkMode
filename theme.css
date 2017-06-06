@@ -1,6 +1,6 @@
 /*******************
 Total Dark mode for Discord.
-Version 0.0.3
+Version 0.0.4
 
 Theme made by Draco (https://github.com/DracoZ12/TotalDarkMode)
 
@@ -57,6 +57,7 @@ animation: none;
   background-color: #141414;
   animation: none;
 }
+
 .connecting,
 .theme-dark .guild-header header,
 section.flex-verticle.flexspacer,
@@ -93,9 +94,7 @@ section.flex-verticle.flexspacer,
 .scroller::-webkit-scrollbar-track-piece {
    background: transparent !important;
 }
-.note {
-  content: none;
-}
+
 .theme-dark .layer {
   background-color: #313131;
 }
@@ -245,101 +244,6 @@ border: none;
   border: none;
 }
 
-
-.hljs {
-  display: block;
-  font-family: "Consolas", monospace;
-  font-size: 15px;
-  overflow-x: auto;
-  background: #1D1F21 !important;
-  color: #C5C8C6 !important;
-  padding: 0.5em;
-}.hljs-emphasis {
-  font-style: italic !important;
-}.hljs-strong {
-  font-weight: bold !important;
-}.hljs-keyword {
-  color: #E061C7 !important;
-  font-weight: bold !important;
-}.hljs-built_in {
-  color: #999999 !important;
-}.hljs-literal,
-.hljs-number {
-  color: #F79768 !important;
-}.hljs-regexp {
-  color: #B34D4D !important;
-}.hljs-string {
-  color: #2497E3 !important;
-}.hljs-subst {
-  color: #F5C747 !important;
-  font-weight: bold !important;
-}.hljs-symbol {
-  color: #04AFBF !important;
-}.hljs-class,
-.hljs-class .hljs-title {
-  color: #E36222 !important;
-}.hljs-class .hljs-keyword,
-.hljs-function .hljs-keyword {
-  color: #50FA7B !important;
-}.hljs-function,
-.hljs-function .hljs-title {
-  color: #D65656 !important;
-}.hljs-params {
-  color: #07CC95 !important;
-}.hljs-comment,
-.hljs-doctag,
-.hljs-meta-keyword,
-.hljs-meta-string,
-.hljs-template-tag,
-.hljs-template-variable {
-  color: #9E9E9E !important;
-  font-style: italic !important;
-}.hljs-meta {
-  color: #E36222 !important;
-  font-style: italic !important;
-}.hljs-tag {
-  color: #49C7F5 !important;
-}.hljs-name,
-.hljs-builtin-name {
-  color: #D75A64 !important;
-}.hljs-attr,
-.hljs-variable {
-  color: #78D69E !important;
-}.hljs-bullet,
-.hljs-type {
-  color: #04AFBF !important;
-  font-weight: bold !important;
-}.hljs-code {
-  color: #BEBEBE !important;
-}.hljs-emphasis {
-  font-style: italic !important;
-  color: #AEAEAE !important;
-}.hljs-strong {
-  font-weight: bold !important;
-}.hljs-link {
-  color: #DE935F !important;
-}.hljs-section {
-  color: #CC9C0C !important;
-  font-weight: bold !important;
-}.hljs-quote {
-  color: #789922 !important;
-}.hljs-selector-tag {
-  color: #D75A64 !important;
-}.hljs-selector-id {
-  color: #CC3535 !important;
-  font-weight: bold !important;
-}.hljs-attribute,
-.hljs-selector-pseudo {
-  color: #40C762 !important;
-}.hljs-selector-class {
-  color: #49C7F5 !important;
-}.hljs-selector-attr {
-  color: #A25AFA !important;
-}.hljs-addition {
-  color: #80C771 !important;
-}.hljs-deletion {
-  color: #C24848 !important;
-}
 
 
 #user-profile-modal .guilds .guild:hover {
